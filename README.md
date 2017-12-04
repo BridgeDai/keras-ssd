@@ -21,7 +21,7 @@ sudo pip install tensorflow-gpu==v1.2.1
 sudo pip install Keras==2.0.6
 ```
 
-## Get start
+## train
 
 ```
 python ssd_training.py
