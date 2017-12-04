@@ -14,6 +14,19 @@ My work is just playing with this fantastic algorithm, and see the detection res
 
 Additionally, I would like to **make the project more simple and clear for understanding**. Yes, it takes me time to figure out the mainline. So a little re-construction is done, leaving the function name same for the sake of easy comparison with original repo.
 
+## env
+
+```
+sudo pip install tensorflow-gpu==v1.2.1
+sudo pip install Keras==2.0.6
+```
+
+## Get start
+
+```
+python ssd_training.py
+```
+
 ## Guides
 
 The code structures looks like below:
